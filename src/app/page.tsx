@@ -3,7 +3,7 @@ import Header from './components/Header';
 import PersonalInfo from './components/PersonalInfo';
 import Experience from './components/Experience';
 import Education from './components/Education';
-import Skills from './components/PersonalInfo';
+import Skills from './components/Skill';
 
 export default function Home() {
   return (
